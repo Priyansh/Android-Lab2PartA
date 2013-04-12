@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Lab2Part1_Intent_ServiceActivity</string>
+    <string name="app_name">Lab2partA</string>
+    <string name="buttonString">ClickToStartIntentServices</string>
+    <string name="ServiceString">ClickToStartServices</string>
+    <string name="stopstring">ClickToStopService</string>
+    <string name="BoundService">Lab2_BoundService</string>
+    <string name="RandomNumberString">Get Random Number From Services</string>
+    <color name="BackgroundColor">#C0C0C0</color>
+    <color name="ButtonColor">#00FFFF</color>
+    <color name="TextColor">#000000</color>
+
+</resources>
